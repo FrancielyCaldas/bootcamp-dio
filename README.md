@@ -22,3 +22,4 @@ Repositório para resumos e anotações sobre o Git e GitHub
 - git commit -m "comentário"
 - git status: monitorar os arquivos do rep
 - git push origin master: push é para empurrar a origin associada anteriormente
+- git log: log dos commits realizados
